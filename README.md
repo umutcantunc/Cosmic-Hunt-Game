@@ -50,6 +50,10 @@ Kodlarla uğraşmadan oyunu hemen denemek ister misiniz?
 2.  En son sürüm olan **.zip** dosyasını indirin.
 3.  Klasöre çıkartın ve **`CosmicHunt.exe`** dosyasını çalıştırın. İyi eğlenceler!
 
+Ya da:
+
+🎮 **Oyuncular İçin:** Oyunun en güncel sürümünü oynamak ve destek olmak için lütfen [Itch.io sayfamızı ziyaret edin!] ( https://umutcantunc.itch.io/cosmic-hunt )
+
 ## 🛠️ Geliştiriciler İçin Kurulum
 
 Eğer kaynak kodunu incelemek, değiştirmek veya katkıda bulunmak isterseniz:
